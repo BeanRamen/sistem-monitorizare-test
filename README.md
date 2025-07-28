@@ -1,5 +1,5 @@
 https://github.com/user-attachments/assets/b13614ad-9790-4d78-b8bf-2fc70ee8ec3d
-
+GOOGLE DRIVE: https://drive.google.com/drive/folders/1qEcol1IooAU8RIS1F2abyJBgg_KhXEz4?usp=drive_link
 In captura de ecran putem observa modul in care programul functioneaza si aproximativ unde sunt pozele procesate.
 
 In primul rand, dupa rularea programului ParkingSpacePicker.py, se deschide imaginea de baza, parcarea in totalitate. Aici selectam locurile de parcare pe car vrem sa le procesam si sunt marcate cu culoarea mov.
